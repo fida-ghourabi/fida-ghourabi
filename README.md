@@ -17,21 +17,58 @@
 <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20to-PFE%20Internship-2ea44f?style=for-the-badge"/>
 
+<br/><br/>
+
+<a href="#-english"><img src="https://img.shields.io/badge/🇬🇧-English-0f172a?style=for-the-badge"/></a>
+<a href="#-français"><img src="https://img.shields.io/badge/🇫🇷-Français-0f172a?style=for-the-badge"/></a>
+
 </div>
 
 <br/>
+
+## 🇬🇧 English
+
+<p align="center">
+Software engineering student (final year) — I design and deploy end-to-end systems, from code to the infrastructure that runs it. Full-Stack, DevOps & Cloud, with a strong interest in artificial intelligence.
+</p>
+
+**💼 Latest experience**
+STB — Full-Stack & DevOps Developer *(internship completed)*. Built and deployed a bank complaint management application in a Kubernetes environment, with a CI pipeline via GitHub Actions and a GitOps approach via Argo CD.
+
+**🎯 Currently**
+🔍 Actively looking for a final-year internship (PFE) in Full-Stack, DevOps & Cloud, or AI
+
+**🤝 Open to opportunities**
+I'm currently looking for a final-year internship (PFE) in Full-Stack, DevOps & Cloud, or AI. Full project details — architecture, screenshots, live demos — are available on my [portfolio →](https://fida-ghourabi.github.io/)
+
+<br/>
+
+---
+
+## 🇫🇷 Français
 
 <p align="center">
 Ingénieure en génie logiciel (5ᵉ année) — je conçois et déploie des systèmes de bout en bout, du code à l'infrastructure. Full-Stack, DevOps & Cloud, avec un intérêt marqué pour l'intelligence artificielle.
 </p>
 
+**💼 Dernière expérience**
+STB — Développeuse Full-Stack & DevOps *(stage terminé)*. Développement et déploiement d'une application de gestion des réclamations bancaires en environnement Kubernetes, avec pipeline CI via GitHub Actions et approche GitOps via Argo CD.
+
+**🎯 En ce moment**
+🔍 En recherche active d'un stage de fin d'études (PFE) en Full-Stack, DevOps & Cloud, ou IA
+
+**🤝 Ouverte aux opportunités**
+Je recherche actuellement un stage de fin d'études (PFE) en Full-Stack, DevOps & Cloud, ou IA. Le détail de mes projets — architectures, captures d'écran, démos live — est disponible sur mon [portfolio →](https://fida-ghourabi.github.io/)
+
 <br/>
 
-## 🛠️ Stack technique
+---
+
+## 🛠️ Stack technique / Tech Stack
 
 <div align="center">
 
-**Développement**
+**Développement / Development**
 
 <img src="https://img.shields.io/badge/Angular-0f172a?style=for-the-badge&logo=angular&logoColor=DD0031"/>
 <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -63,7 +100,7 @@ Ingénieure en génie logiciel (5ᵉ année) — je conçois et déploie des sys
 
 <br/>
 
-## 📊 Statistiques GitHub
+## 📊 Statistiques GitHub / GitHub Stats
 
 <div align="center">
 
@@ -74,27 +111,14 @@ Ingénieure en génie logiciel (5ᵉ année) — je conçois et déploie des sys
 
 <br/>
 
-## 💼 Dernière expérience
-
-**STB — Développeuse Full-Stack & DevOps** *(stage terminé)*
-
-Développement et déploiement d'une application de gestion des réclamations bancaires en environnement Kubernetes, avec pipeline CI via GitHub Actions et approche GitOps via Argo CD.
-
-## 🎯 En ce moment
-
-- 🔍 En recherche active d'un stage de fin d'études (PFE) en Full-Stack, DevOps & Cloud, ou IA
-
 ## 🎓 Certifications
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Big%20Data%20Engineer-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 
-<br/><br/>
-
-## 🤝 Ouverte aux opportunités
-
-Je recherche actuellement un **stage de fin d'études (PFE)** en Full-Stack, DevOps & Cloud, ou IA.
-Le détail de mes projets — architectures, captures d'écran, démos live — est disponible sur mon **[portfolio →](https://fida-ghourabi.github.io/)**
+</div>
 
 <br/>
 
