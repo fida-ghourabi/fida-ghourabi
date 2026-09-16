@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fida-ghourabi/fida-ghourabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=36&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&height=60&lines=Fida+Ghourabi;Software+Engineer;Full-Stack+%26+DevOps" />
+
+<br/><br/>
+
+<a href="https://fida-ghourabi.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/fida-ghourabi-3974b223b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:fidagh803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-PFE%20Internship-2ea44f?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+Ingénieure en génie logiciel (5ᵉ année) — je conçois et déploie des systèmes de bout en bout, du code à l'infrastructure. Full-Stack, DevOps & Cloud, avec un intérêt marqué pour l'intelligence artificielle.
+</p>
+
+<br/>
+
+## 🛠️ Stack technique
+
+<div align="center">
+
+**Développement**
+
+<img src="https://img.shields.io/badge/Angular-0f172a?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/.NET-0f172a?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+
+<br/><br/>
+
+**Infrastructure & DevOps**
+
+<img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Grafana-0f172a?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/Prometheus-0f172a?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/Loki-0f172a?style=for-the-badge&logo=grafana&logoColor=F5A623"/>
+<img src="https://img.shields.io/badge/Tempo-0f172a?style=for-the-badge&logo=grafana&logoColor=F5A623"/>
+
+<br/><br/>
+
+**Data & Machine Learning**
+
+<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+
+</div>
+
+<br/>
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fida-ghourabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fida-ghourabi&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+## 💼 Dernière expérience
+
+**STB — Développeuse Full-Stack & DevOps** *(stage terminé)*
+
+Développement et déploiement d'une application de gestion des réclamations bancaires en environnement Kubernetes, avec pipeline CI via GitHub Actions et approche GitOps via Argo CD.
+
+## 🎯 En ce moment
+
+- 🔍 En recherche active d'un stage de fin d'études (PFE) en Full-Stack, DevOps & Cloud, ou IA
+
+## 🎓 Certifications
+
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Big%20Data%20Engineer-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<br/><br/>
+
+## 🤝 Ouverte aux opportunités
+
+Je recherche actuellement un **stage de fin d'études (PFE)** en Full-Stack, DevOps & Cloud, ou IA.
+Le détail de mes projets — architectures, captures d'écran, démos live — est disponible sur mon **[portfolio →](https://fida-ghourabi.github.io/)**
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
+</div>
