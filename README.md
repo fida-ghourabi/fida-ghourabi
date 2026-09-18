@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/fida-ghourabi/fida-ghourabi/main/avatar.jpg" width="220" height="220" style="border-radius:50%; object-fit:cover; border:4px solid #2563eb;"/>
+<img src="https://raw.githubusercontent.com/fida-ghourabi/fida-ghourabi/main/avatar.jpg" width="320" height="320" style="border-radius:50%; object-fit:cover; border:4px solid #2563eb;"/>
 
 <br/><br/>
 
