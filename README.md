@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=2500&pause=700&color=2563EB&center=true&vCenter=true&width=650&height=65&lines=Fida+Ghourabi;Software+Engineer;Full-Stack+%26+DevOps;AWS+Certified;AI+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=2500&pause=700&color=2563EB&center=true&vCenter=true&width=650&height=65&lines=Fida+Ghourabi;Software+Engineer;Full-Stack+%26+DevOps;AI+Enthusiast" />
 
 <br/><br/>
 
