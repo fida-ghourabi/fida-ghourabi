@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=36&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&height=60&lines=Fida+Ghourabi;Software+Engineer;Full-Stack+%26+DevOps" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=2500&pause=700&color=2563EB&center=true&vCenter=true&width=650&height=65&lines=Fida+Ghourabi;Software+Engineer;Full-Stack+%26+DevOps;AWS+Certified;AI+Enthusiast" />
 
 <br/><br/>
 
