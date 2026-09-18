@@ -121,6 +121,12 @@ Je recherche actuellement un stage de fin d'études (PFE) en Full-Stack, DevOps 
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/fida-ghourabi/fida-ghourabi/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
 <br/>
 
 ## 🏆 Trophées / Trophies
