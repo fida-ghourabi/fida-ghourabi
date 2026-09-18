@@ -19,6 +19,10 @@
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=fida-ghourabi&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+
+<br/><br/>
+
 <a href="#-english"><img src="https://img.shields.io/badge/🇬🇧-English-0f172a?style=for-the-badge"/></a>
 <a href="#-français"><img src="https://img.shields.io/badge/🇫🇷-Français-0f172a?style=for-the-badge"/></a>
 
@@ -108,6 +112,22 @@ Je recherche actuellement un stage de fin d'études (PFE) en Full-Stack, DevOps 
 
 <img src="https://github-readme-stats.vercel.app/api?username=fida-ghourabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fida-ghourabi&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fida-ghourabi&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophées / Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fida-ghourabi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
