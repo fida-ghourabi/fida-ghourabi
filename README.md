@@ -2,13 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header"/>
 
-<br/>
+</div>
 
-<img src="https://raw.githubusercontent.com/fida-ghourabi/fida-ghourabi/main/avatar.jpg" width="140" height="140" style="border-radius:50%; object-fit:cover;"/>
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="https://raw.githubusercontent.com/fida-ghourabi/fida-ghourabi/main/avatar.jpg" width="260" height="260" style="border-radius:50%; object-fit:cover;"/>
+</td>
+<td width="65%" align="left">
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=2500&pause=700&color=2563EB&center=true&vCenter=true&width=650&height=65&lines=Fida+Ghourabi;Software+Engineer;Full-Stack+%26+DevOps;AWS+Certified;AI+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=34&duration=2500&pause=700&color=2563EB&vCenter=true&width=550&height=110&lines=Fida+Ghourabi;Software+Engineer;Full-Stack+%26+DevOps;AWS+Certified;AI+Enthusiast" />
 
 <br/><br/>
 
@@ -30,7 +33,9 @@
 <a href="#-english"><img src="https://img.shields.io/badge/🇬🇧-English-0f172a?style=for-the-badge"/></a>
 <a href="#-français"><img src="https://img.shields.io/badge/🇫🇷-Français-0f172a?style=for-the-badge"/></a>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
