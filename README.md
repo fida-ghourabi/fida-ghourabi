@@ -133,14 +133,6 @@ Je recherche actuellement un stage de fin d'études (PFE) en Full-Stack, DevOps 
 
 <br/>
 
-## 🏆 Trophées / Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fida-ghourabi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
 <br/>
 
 ## 🎓 Certifications
