@@ -75,6 +75,8 @@ Je recherche actuellement un stage de fin d'études (PFE) en Full-Stack, DevOps 
 <img src="https://img.shields.io/badge/.NET-0f172a?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
 <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=ffffff"/>
 
 <br/><br/>
 
